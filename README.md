@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=venom?color=gradient)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient)
 
 ![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 
