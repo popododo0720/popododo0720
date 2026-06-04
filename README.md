@@ -2,8 +2,5 @@
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/popododo0720/svg?template=orbit&color=pink&graph=1)](https://tokscale.ai/u/popododo0720)
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D1117,45:7C3AED,100:FF4ECD&fontColor=FFFFFF&text=popododo0720&fontSize=48&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D1117,45:7C3AED,100:FF4ECD&fontColor=FFFFFF)
 [![Tokscale Stats](https://tokscale.ai/api/embed/popododo0720/svg?template=orbit&color=pink&theme=dark&graph=1)](https://tokscale.ai/u/popododo0720)
-
-![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D1117,55:14532D,100:40C463&fontColor=E6EDF3&text=popododo0720&fontSize=48&animation=fadeIn)
-[![Tokscale Stats](https://tokscale.ai/api/embed/popododo0720/svg?template=terminal&color=green&theme=dark&graph=1)](https://tokscale.ai/u/popododo0720)
