@@ -1,3 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient)
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/popododo0720/svg?template=terminal&color=green&graph=1)](https://tokscale.ai/u/popododo0720)
+[![Tokscale Stats](https://tokscale.ai/api/embed/popododo0720/svg?template=orbit&color=teal&graph=1)](https://tokscale.ai/u/popododo0720)
