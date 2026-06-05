@@ -8,4 +8,4 @@
       alt="Tokscale Stats"
     />
   </a>
-</p
+</p>
