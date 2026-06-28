@@ -4,7 +4,7 @@
   <a href="https://tokscale.ai/u/popododo0720">
     <img
       width="600"
-      src="https://tokscale.ai/api/embed/popododo0720/svg?template=orbit&color=pink&theme=dark&graph=1"
+      src="https://tokscale.ai/api/embed/popododo0720/svg?template=orbit&color=pink&theme=system&graph=1"
       alt="Tokscale Stats"
     />
   </a>
